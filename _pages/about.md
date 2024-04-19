@@ -1,6 +1,6 @@
 ---
 layout: about
-title: jjjj
+title: about
 permalink: /
 subtitle: Ph.D. Candidate at <a href='https://www.mit.edu/'>Massachusetts Institute of Technology</a>      
 # <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
