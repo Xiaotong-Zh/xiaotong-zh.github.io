@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I won the 2022 de Florez Award at MIT :tada:tada! 
+I won the 2022 de Florez Award at MIT :tada::tada:! 
